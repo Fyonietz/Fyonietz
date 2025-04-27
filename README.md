@@ -32,6 +32,7 @@ Perfect for people using low-end devices but needing powerful tools.
 
 ### 🔤 Languages
 - **C / C++**
+- **Rust**
 - **C# (.NET)**
 - **x86 Assembly**
 
