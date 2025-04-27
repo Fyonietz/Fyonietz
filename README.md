@@ -71,3 +71,7 @@ I aim to create desktop applications that are **resource-efficient**, **intuitiv
 
 Feel free to explore my repositories, drop feedback, or collaborate on system-level or desktop projects.
 
+## 😎Funfacts About Me
+-  🐲**Hardcore Programmer**, I Want To Make Everything On My Own For My Fuck Sakes
+-  🤖**Not Average Not Mid**, I Am The Choosen One, God Give Me Life For Reaching Peak Potential
+-  😴**Chill Guy**
