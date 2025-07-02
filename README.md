@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fyonietz&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=fyonietz&theme=radical" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=fyonietz&theme=radical)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
