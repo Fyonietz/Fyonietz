@@ -15,8 +15,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fyonietz&show_icons=true&theme=radical&count_private=true" alt="https://github-readme-streak-stats.herokuapp.com/?user=Fyonietz&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=fyonietz&theme=radical" alt="Github Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fyonietz&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fyonietz&theme=radical" alt=""/>
 </p>
 
 <p align="center">
