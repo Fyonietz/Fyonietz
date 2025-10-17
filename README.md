@@ -7,7 +7,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-4E9F3D?style=flat-square)
-![Qt](https://img.shields.io/badge/Qt-C++-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
@@ -45,9 +44,8 @@ Perfect for people using low-end devices but needing powerful tools.
 
 ### 🔤 Languages
 - **C / C++**
-- **Rust**
 - **C# (.NET)**
-- **x86 Assembly**
+- **Assembly NASM**
 
 ### 🔧 Build Tools
 - **CMake**
