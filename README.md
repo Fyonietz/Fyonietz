@@ -1,17 +1,16 @@
-# 👋 Hi there, I'm Habib Herdiansyah
+# > Habib Herdiansyah
 
-![Profile](https://img.shields.io/badge/System--Level-Developer-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Assembly](https://img.shields.io/badge/ASM%2086-%23000000.svg?style=flat-square)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-4E9F3D?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Profile](https://img.shields.io/badge/System--Level--Developer-0d1117?style=flat-square&logoColor=%23FF00FF)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=%23FF00FF)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=%23FF00FF)
+![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=flat-square&logoColor=%23FF00FF)
+![Zig](https://img.shields.io/badge/Zig-0d1117?style=flat-square&logo=zig&logoColor=%23FF00FF)
+![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=flat-square&logo=neovim&logoColor=%23FF00FF)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=%23FF00FF)
 
 ---
 
-## 📊 GitHub Stats
+## » GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fyonietz&show_icons=true&theme=radical&count_private=true" alt="Stats" />
@@ -19,70 +18,108 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyonietz&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyonietz&layout=compact&theme=radical&hide=javascript,html,Makefile,CSS,CMake,Python" alt="Top Languages" />
 </p>
 
 ---
 
-## 🧠 About Me
+## » About Me
 
 **Habib Herdiansyah**  
-🎯 System and Desktop Developer  
-🧵 Enthusiast of low-level engineering and performance-focused software design.  
-💻 I specialize in making desktop applications that are:
+`System & Desktop Developer`  
+`Part-Time Backend Developer (Web API & Databases)`  
+`Embedded System Enthusiast`  
+Enthusiast of low-level engineering, performance-focused software design, and embedded systems.
 
-- ⚡ **Lightweight**
-- 🚀 **Fast**
-- 🎯 **Easy to Use**
-- 💾 **Minimal Bloat**
+I specialize in making desktop and embedded applications that are:
+
+- `Lightweight`  
+- `Fast`  
+- `Easy to Use`  
+- `Minimal Bloat`  
 
 Perfect for people using low-end devices but needing powerful tools.
 
 ---
 
-## 🛠️ Tech & Tools
+## » Tech & Tools
 
-### 🔤 Languages
-- **C / C++**
-- **C# (.NET)**
-- **Assembly NASM**
+### ─ Low-Level Languages
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=%23FF00FF)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=%23FF00FF)
+![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=flat-square&logoColor=%23FF00FF)
+![Zig](https://img.shields.io/badge/Zig-0d1117?style=flat-square&logo=zig&logoColor=%23FF00FF)
 
-### 🔧 Build Tools
-- **CMake**
-- **Visual Studio Solutions (.sln)**
+### ─ Backend (Part-Time)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=%23FF00FF)
+![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=%23FF00FF)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=%23FF00FF)
+![JSON](https://img.shields.io/badge/JSON-0d1117?style=flat-square&logo=json&logoColor=%23FF00FF)
 
-### 💻 IDEs & Editors
-- **Visual Studio**
-- **VS Code**
-- **NASM**
+### ─ Build Tools
+![CMake](https://img.shields.io/badge/CMake-0d1117?style=flat-square&logo=cmake&logoColor=%23FF00FF)
+![Zig Build](https://img.shields.io/badge/Zig%20Build-0d1117?style=flat-square&logo=zig&logoColor=%23FF00FF)
 
-### 🖥️ Desktop App Frameworks
-- **Qt (C++)**
-- **.ASP.NET WinForms**
+### ─ IDEs & Editors
+![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=flat-square&logo=neovim&logoColor=%23FF00FF)
 
-### 💪 HardCore Mode
-- **Windows API (`windows.h`)**
-- **SFML (Graphics / Input)**
-- **C++ STL**
+### ─ Hardcore & Embedded Mode
+- `OS API (UNIX, POSIX, BSD)`  
+- `NO-OS (Microcontroller)`  
+- `DIRECT SYSCALL`  
+- `Embedded System Development`
 
-### 📐 Diagramming & Planning
-- **Draw.io** for algorithm diagrams and system design
-
----
-
-## 🎯 My Intention
-
-> "Build software that runs fast, looks clean, and works even on modest machines."
-
-I aim to create desktop applications that are **resource-efficient**, **intuitive**, and genuinely useful for **real-world tasks**—especially for users with **low-end hardware** who deserve better tools too.
+### ─ Diagramming & Planning
+- `Draw.io` for algorithm diagrams, system design, and embedded architecture
 
 ---
 
-## 📬 Let's Connect
+## » My Intention
 
-Feel free to explore my repositories, drop feedback, or collaborate on system-level or desktop projects.
+> "Build software that runs fast, looks clean, works on modest machines, and scales to embedded systems."
 
-## 😎 Funfacts About Me
--  🐲**Hardcore Programmer**, I Want To Make Everything On My Own For My Fuck Sakes  
--  🤖**Not Average Not Mid**, I Am The Choosen One, God Give Me Life For Reaching Peak Potential  
--  😴**Chill Guy**
+I aim to create **resource-efficient**, **intuitive**, and **practical applications**—for **desktop, web backend, and embedded environments**—especially for users with low-end hardware.
+
+---
+
+## » Top Repositories
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Fyonietz/Phoenix">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fyonietz&repo=Phoenix&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Fyonietz/Phoenix-Micro">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fyonietz&repo=Phoenix-Micro&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Fyonietz/Custom-Http">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fyonietz&repo=Custom-Http&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Fyonietz/Zarathustra-Engine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fyonietz&repo=Zarathustra-Engine&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## » Let's Connect
+
+Feel free to explore my repos, leave feedback, or collaborate on **system-level, embedded, or backend projects**.
+
+---
+
+## » About Me
+- `Hardcore Programmer` - I Want To Build Everything Myself  
+- `Not Average` - Built to Reach Peak Potential  
+- `Chill Guy` - Despite All the Chaos
