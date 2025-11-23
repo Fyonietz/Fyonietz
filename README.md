@@ -47,7 +47,7 @@ Perfect for people using low-end devices but needing powerful tools.
 ### 🔧 Low-Level Languages (Badges)
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=%23FF00FF)
 ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=%23FF00FF)
-![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=flat-square&logoColor=%23FF00FF)
+![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=flat-square&logo=assemblyscript&logoColor=%23FF00FF)
 ![Zig](https://img.shields.io/badge/Zig-0d1117?style=flat-square&logo=zig&logoColor=%23FF00FF)
 
 ### 🌍 Backend (Part-Time)
