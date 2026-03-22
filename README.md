@@ -14,7 +14,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fyonietz&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fyonietz&theme=radical" alt=""/>
 </p>
 
 <p align="center">
@@ -44,13 +43,13 @@ Perfect for people using low-end devices but needing powerful tools.
 
 ## ⚙️ Tech & Tools
 
-### 🔧 Low-Level Languages (Badges)
+### 🔧 Low-Level Languages
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=%23FF00FF)
 ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=%23FF00FF)
 ![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=flat-square&logo=assemblyscript&logoColor=%23FF00FF)
 ![Zig](https://img.shields.io/badge/Zig-0d1117?style=flat-square&logo=zig&logoColor=%23FF00FF)
 
-### 🌍 Backend (Part-Time)
+### 🌍 Backend
 ![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=%23FF00FF)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=%23FF00FF)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=%23FF00FF)
@@ -64,7 +63,7 @@ Perfect for people using low-end devices but needing powerful tools.
 ![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=flat-square&logo=neovim&logoColor=%23FF00FF)
 
 ### 💪 Hardcore & Embedded Mode
-- **OS API (`UNIX`, `POSIX`, `BSD`)**  
+- **OS API**  
 - **NO-OS (`Microcontroller`)**  
 - **DIRECT SYSCALL**  
 - **Embedded System Development**
