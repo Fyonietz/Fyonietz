@@ -28,7 +28,7 @@
 🔥 **System & Desktop Developer**  
 ⚙️ **Part-Time Backend Developer (Web API & Databases)**  
 🖲️ **Embedded System Enthusiast**  
-⚡** Enthusiast of low-level engineering, performance-focused software design, and embedded systems.**
+⚡ **Enthusiast of low-level engineering, performance-focused software design, and embedded systems.**
 
 💻 I specialize in making desktop and embedded applications that are:
 
