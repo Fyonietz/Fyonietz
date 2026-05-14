@@ -13,11 +13,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fyonietz&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fyonietz&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Fyonietz's GitHub Stats" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyonietz&layout=compact&theme=radical&hide=HTML,Javascript,CSS,Python,CMake,Makefile" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyonietz&layout=compact&theme=radical&hide=HTML,Javascript,CSS,Python,CMake,Makefile&hide_border=true" alt="Top Languages" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fyonietz&repo=github-readme-stats&theme=radical&hide_border=true" alt="Pinned Repo" />
 </p>
 
 ---
