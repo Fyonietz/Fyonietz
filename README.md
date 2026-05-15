@@ -13,16 +13,33 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fyonietz&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Fyonietz's GitHub Stats" height="180em" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=fyonietz&theme=radical" alt="Fyonietz's Streak Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyonietz&layout=compact&theme=radical&hide=HTML,Javascript,CSS,Python,CMake,Makefile&hide_border=true" alt="Top Languages" height="180em" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fyonietz&theme=radical" alt="GitHub Profile Summary" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fyonietz&repo=github-readme-stats&theme=radical&hide_border=true" alt="Pinned Repo" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fyonietz&theme=radical" alt="Languages Used" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fyonietz&theme=radical" alt="Most Commit Language" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyonietz&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
+  </a>
+</p>
+
+### 📊 Quick Stats
+![Followers](https://img.shields.io/github/followers/fyonietz?style=social)
+![Stars](https://img.shields.io/github/stars/fyonietz?style=social)
 
 ---
 
