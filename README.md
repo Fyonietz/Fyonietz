@@ -5,7 +5,7 @@
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=%23FF00FF)
 ![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=flat-square&logo=assemblyscript&logoColor=%23FF00FF)
 ![Zig](https://img.shields.io/badge/Zig-0d1117?style=flat-square&logo=zig&logoColor=%23FF00FF)
-![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=flat-square&logo=neovim&logoColor=%23FF00FF)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=%23FF00FF)
 ![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=%23FF00FF)
 
 ---
@@ -47,7 +47,7 @@
 
 **Habib Herdiansyah**  
 🔥 **System & Desktop Developer**  
-⚙️ **Part-Time Backend Developer (Web API & Databases)**  
+⚙️ **Backend Developer (.NET & Systems)**  
 🖲️ **Embedded System Enthusiast**  
 ⚡ **Enthusiast of low-level engineering, performance-focused software design, and embedded systems.**
 
@@ -70,8 +70,9 @@ Perfect for people using low-end devices but needing powerful tools.
 ![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=flat-square&logo=assemblyscript&logoColor=%23FF00FF)
 ![Zig](https://img.shields.io/badge/Zig-0d1117?style=flat-square&logo=zig&logoColor=%23FF00FF)
 
-### 🌍 Backend
+### 🌍 Backend & Systems
 ![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=%23FF00FF)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=%23FF00FF)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=%23FF00FF)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=%23FF00FF)
 ![JSON](https://img.shields.io/badge/JSON-0d1117?style=flat-square&logo=json&logoColor=%23FF00FF)
@@ -98,7 +99,7 @@ Perfect for people using low-end devices but needing powerful tools.
 
 > "Build software that runs fast, looks clean, works on modest machines, and scales to embedded systems."
 
-I aim to create **resource-efficient**, **intuitive**, and **practical applications**—for **desktop, web backend, and embedded environments**—especially for users with low-end hardware.
+I aim to create **resource-efficient**, **intuitive**, and **practical applications**—for **systems, backend, and embedded environments**—especially for users with low-end hardware.
 
 ---
 
