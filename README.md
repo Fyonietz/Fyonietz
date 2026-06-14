@@ -11,13 +11,6 @@
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=fyonietz&theme=radical" alt="Fyonietz's Streak Stats" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fyonietz&theme=radical" alt="GitHub Profile Summary" />
