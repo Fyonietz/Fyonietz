@@ -1,108 +1,75 @@
-# ⚡ Hi there, I'm Habib Herdiansyah
+# Habib Herdiansyah
 
-![Profile](https://img.shields.io/badge/System--Level--Developer-0d1117?style=flat-square&logoColor=%23FF00FF)
-![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=%23FF00FF)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=%23FF00FF)
-![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=flat-square&logo=assemblyscript&logoColor=%23FF00FF)
-![Zig](https://img.shields.io/badge/Zig-0d1117?style=flat-square&logo=zig&logoColor=%23FF00FF)
-![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=%23FF00FF)
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=%23FF00FF)
+![Profile](https://img.shields.io/badge/System--Level%20Developer-0d1117?style=flat-square&logoColor=white)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=flat-square&logo=assemblyscript&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-0d1117?style=flat-square&logo=zig&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## Profile
+
+System-level and embedded software developer with a focus on performance-critical, low-overhead applications. Experienced in bare-metal embedded systems, low-level OS interfaces, and backend development. Builds software intended to run efficiently on constrained hardware without sacrificing capability or correctness.
+
+---
+
+## Core Competencies
+
+**Low-Level Development**
+- Languages: C, C++, Assembly, Zig
+- Direct syscall interfaces, OS API programming
+- Bare-metal microcontroller development (no RTOS, no HAL abstractions)
+- Embedded systems: MMIO, peripheral drivers, hardware interfacing
+
+**Backend & Systems**
+- Languages: Go, C# (.NET)
+- Databases: MariaDB, SQLite
+- Data formats: JSON
+- Build systems: CMake, Zig Build System
+
+**Tooling**
+- Editor: Neovim
+- Diagramming: Draw.io (system design, algorithm flow, embedded architecture)
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fyonietz&theme=radical" alt="GitHub Profile Summary" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fyonietz&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fyonietz&theme=radical" alt="Languages Used" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fyonietz&theme=radical" alt="Most Commit Language" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fyonietz&theme=radical" alt="Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fyonietz&theme=radical" alt="Languages by Commit" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyonietz&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyonietz&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
 </p>
 
-### 📊 Quick Stats
-![Followers](https://img.shields.io/github/followers/fyonietz?style=social)
-![Stars](https://img.shields.io/github/stars/fyonietz?style=social)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/fyonietz?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/fyonietz?style=social" alt="Stars" />
+</p>
 
 ---
 
-## 🧬 About Me
+## Approach
 
-**Habib Herdiansyah**  
-🔥 **System & Desktop Developer**  
-⚙️ **Backend Developer (.NET & Systems)**  
-🖲️ **Embedded System Enthusiast**  
-⚡ **Enthusiast of low-level engineering, performance-focused software design, and embedded systems.**
+Software built here prioritizes:
 
-💻 I specialize in making desktop and embedded applications that are:
+- **Minimal resource usage** — designed to run on low-end and constrained devices
+- **Correctness at the hardware level** — no abstraction layers where direct control is possible
+- **Practical utility** — tools that solve real problems without unnecessary complexity
 
-- ⚡ **Lightweight**  
-- 🚀 **Fast**  
-- 💎 **Easy to Use**  
-- 🎯 **Minimal Bloat**  
-
-Perfect for people using low-end devices but needing powerful tools.
+The goal is software that is lightweight, deterministic, and maintainable — whether targeting a microcontroller or a general-purpose OS.
 
 ---
 
-## ⚙️ Tech & Tools
+## Contact
 
-### 🔧 Low-Level Languages
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=%23FF00FF)
-![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=%23FF00FF)
-![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=flat-square&logo=assemblyscript&logoColor=%23FF00FF)
-![Zig](https://img.shields.io/badge/Zig-0d1117?style=flat-square&logo=zig&logoColor=%23FF00FF)
-
-### 🌍 Backend & Systems
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=%23FF00FF)
-![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=%23FF00FF)
-![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=%23FF00FF)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=%23FF00FF)
-![JSON](https://img.shields.io/badge/JSON-0d1117?style=flat-square&logo=json&logoColor=%23FF00FF)
-
-### 🔧 Build Tools
-![CMake](https://img.shields.io/badge/CMake-0d1117?style=flat-square&logo=cmake&logoColor=%23FF00FF)
-![Zig Build](https://img.shields.io/badge/Zig%20Build-0d1117?style=flat-square&logo=zig&logoColor=%23FF00FF)
-
-### 💻 IDEs & Editors
-![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=flat-square&logo=neovim&logoColor=%23FF00FF)
-
-### 💪 Hardcore & Embedded Mode
-- **OS API**  
-- **NO-OS (`Microcontroller`)**  
-- **DIRECT SYSCALL**  
-- **Embedded System Development**
-
-### 📐 Diagramming & Planning
-- **Draw.io** for algorithm diagrams, system design, and embedded architecture
-
----
-
-## 🎯 My Intention
-
-> "Build software that runs fast, looks clean, works on modest machines, and scales to embedded systems."
-
-I aim to create **resource-efficient**, **intuitive**, and **practical applications**—for **systems, backend, and embedded environments**—especially for users with low-end hardware.
-
----
-
-## 📬 Let's Connect
-
-Feel free to explore my repos, leave feedback, or collaborate on **system-level, embedded, or backend projects**.
-
----
-
-## 😎 Funfacts About Me
-- 🐲 **Hardcore Programmer**, I Want To Build Everything Myself  
-- 🤖 **I Am Not Average**, I'm Built to Reach Peak Potential  
-- 😴 **Chill Guy Despite All the Chaos**
+Open to collaboration on system-level, embedded, or backend projects. Browse the repositories or reach out directly through GitHub.
