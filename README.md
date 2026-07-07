@@ -5,7 +5,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-0d1117?style=flat-square&logo=zig&logoColor=white)
-![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
@@ -25,7 +24,7 @@ System-level and embedded software developer with a focus on performance-critica
 - Embedded systems: MMIO, peripheral drivers, hardware interfacing
 
 **Backend & Systems**
-- Languages: Go, C# (.NET)
+- Languages: C# (.NET)
 - Databases: MariaDB, SQLite
 - Data formats: JSON
 - Build systems: CMake, Zig Build System
