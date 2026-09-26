@@ -72,3 +72,4 @@ The goal is software that is lightweight, deterministic, and maintainable — wh
 ## Contact
 
 Open to collaboration on system-level, embedded, or backend projects. Browse the repositories or reach out directly through GitHub.
+https://fyonietz.my.id
